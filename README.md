@@ -41,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🔖 Layout
 <p align="center">
-  <img alt="FinBank" src="#" width="60%">
+  <img alt="FinBank" src="testecontas.png" width="60%">
 </p>
 
 ## Tarefas 
