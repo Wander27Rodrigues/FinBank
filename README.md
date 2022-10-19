@@ -1,5 +1,5 @@
 <h1 align="center">
-  crud-angular-spring
+  Fin BANK
 </h1>
 
 <p align="center">
